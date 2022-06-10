@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redstonescooter
-- :computer: my skills consist of : HTML, CSS, JavaScript, 2D design, SEO, c++ and java.
+- :computer: my skillset consist of : HTML, CSS, JavaScript, 2D design, SEO, c++ and java.
 
-- 👀 I’m interested : in Web Development, HTML, CSS, JavaScript, WebApps and anything web or design related!
+- 👀 I’m interested in : Web Development, HTML, CSS, JavaScript, WebApps and anything web or design related!
 
 - 🌱 I’m currently learning : UI/UX, 2D design, SEO and more JavaScript!
 
